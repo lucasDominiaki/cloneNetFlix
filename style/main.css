@@ -86,3 +86,42 @@ nav a:hover{
 .botao i{
     margin-right: 5px;
 }
+
+
+.container{
+    margin-left: 20px;
+    
+}
+
+.filme-principal .container{
+    width: 80%;
+}
+
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Wrapper envelopar*/ 
